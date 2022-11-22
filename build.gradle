@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'com.epam.genesis.pss.demo.tests'
+group 'com.epam.genesis.dsalgo.m1.pss.tests'
 version '1.0-SNAPSHOT'
 
 repositories {
